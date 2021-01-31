@@ -1,2 +1,2 @@
 # SnekeGame
-A recreation of the classic centipede game
+A quick recreation of the classic centipede game.
